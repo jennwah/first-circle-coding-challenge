@@ -1,0 +1,18 @@
+Develop a service that simulates basic banking operations in a programming language of your choice. This service will manage accounts, process deposits, withdrawals, and transfers between accounts. 
+
+This test aims to assess your problem-solving skills by building a system that reflects the real-world constraints of a bank. It will also evaluate your ability to adhere to engineering best practices. Please keep this in mind and incorporate anything you consider relevant to both areas.
+
+Requirements:
+
+1. A class or set of functions that allow:
+    - Account creation: Allow users to create an account with an initial deposit.
+    - Deposit: Enable users to deposit money into their account.
+    - Withdrawal: Allow users to withdraw money from their account, ensuring that overdrafts are not allowed.
+    - Transfer: Enable transferring funds between accounts.
+    - Account balance: Provide the ability to check the account balance.
+2. Database:
+    - In-memory data storage will suffice, no need to have a database alongside the project, but you can add one at your discretion
+
+The word “service” here is used in a “software component/module” rather “deployable unit with an API” sense, no need to provide API for it.
+
+Feel free to take as along as you need to complete the exercise. This will be used as a base for a follow-up pair programming session.
